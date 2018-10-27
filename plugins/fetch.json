@@ -1,0 +1,28 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-google-nearby": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-google-nearby@^1.1.6"
+    },
+    "is_top_level": true,
+    "variables": {
+      "API_KEY": "AIzaSyAemz6AexHtT7yVV1z0YAjSRXWGXp4xjE0"
+    }
+  },
+  "cordova-plugin-geolocation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-geolocation@4.0.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
